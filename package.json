@@ -3,7 +3,7 @@
     "jest": "^29.7.0"
   },
   "name": "testing-lab",
-  "description": "## Introduction",
+  "description": "Practice excerises for testing using the Jest framework",
   "version": "1.0.0",
   "main": "isSameFirstLastCharacter.js",
   "devDependencies": {},
