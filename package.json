@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "jest": "^29.7.0"
+  },
+  "name": "testing-lab",
+  "description": "## Introduction",
+  "version": "1.0.0",
+  "main": "isSameFirstLastCharacter.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://git.generalassemb.ly/yrogerg/testing-lab.git"
+  },
+  "keywords": [
+    "testing",
+    "jest"
+  ],
+  "author": "Greg Ells",
+  "license": "ISC"
+}
